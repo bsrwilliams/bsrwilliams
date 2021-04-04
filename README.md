@@ -3,7 +3,7 @@ I am a Computer Sicence Graduate currently training to be a Java Developer Consu
 
 #### Technologies
 | Technology | Skill |
-| --- | --- |
+| :---: | :---: |
 | Java | ⭐⭐⭐⭐⭐ |
 | Spring | ⭐⭐⭐⭐ |
 | SQL | ⭐⭐⭐⭐ |
