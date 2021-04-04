@@ -1,8 +1,17 @@
 ### Hello World! 👋
-I am a Computer Sicence Graduate currently training to be a Java Developer Consultant. 
+I am a Computer Sicence Graduate currently training to be a Java Developer Consultant. In my spare time I enjoy developing my skills through personal projects and keeping active by going to the gym.
+
+#### Technologies
+- Java ⭐⭐⭐⭐⭐
+- Spring ⭐⭐⭐⭐
+- SQL ⭐⭐⭐⭐⭐
+- HTML ⭐⭐⭐⭐⭐
+- CSS ⭐⭐⭐⭐⭐
+- JavaScript ⭐⭐⭐
+- jQuery ⭐⭐⭐
 
 Check out my website!
-https://bradleywilliams.co.uk/
+[Click Here](https://bradleywilliams.co.uk/)
 
 <!--
 **bsrwilliams/bsrwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
