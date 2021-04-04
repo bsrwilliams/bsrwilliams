@@ -1,7 +1,7 @@
 ### Hello World! 👋
 I am a Computer Sicence Graduate currently training to be a Java Developer Consultant. In my spare time I enjoy developing my skills through personal projects and keeping active by going to the gym.
 
-#### Technologies
+#### Technologies used
 | Technology | Skill |
 | :---: | :---: |
 | Java | ⭐⭐⭐⭐⭐ |
