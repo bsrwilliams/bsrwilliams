@@ -1,4 +1,8 @@
 ### Hello World! 👋
+I am a Computer Sicence Graduate currently training to be a Java Developer Consultant. 
+
+Check out my website!
+https://bradleywilliams.co.uk/
 
 <!--
 **bsrwilliams/bsrwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
