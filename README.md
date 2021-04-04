@@ -2,13 +2,15 @@
 I am a Computer Sicence Graduate currently training to be a Java Developer Consultant. In my spare time I enjoy developing my skills through personal projects and keeping active by going to the gym.
 
 #### Technologies
-- Java        ⭐⭐⭐⭐⭐
-- Spring      ⭐⭐⭐⭐
-- SQL         ⭐⭐⭐⭐
-- HTML        ⭐⭐⭐⭐⭐
-- CSS         ⭐⭐⭐⭐⭐
-- JavaScript  ⭐⭐⭐
-- jQuery      ⭐⭐⭐
+| Technology | Skill |
+| --- | --- |
+| Java | ⭐⭐⭐⭐⭐ |
+| Spring | ⭐⭐⭐⭐ |
+| SQL | ⭐⭐⭐⭐ |
+| HTML | ⭐⭐⭐⭐⭐ |
+| CSS | ⭐⭐⭐⭐⭐ |
+| JavaScript | ⭐⭐⭐ |
+| jQuery | ⭐⭐⭐ |
 
 Check out my website!
 [Click Here](https://bradleywilliams.co.uk/)
