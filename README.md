@@ -1,5 +1,5 @@
 ### Hello World! 👋
-I am a Computer Sicence Graduate currently training to be a Java Developer Consultant. In my spare time I enjoy developing my skills through personal projects and keeping active by going to the gym.
+I am a Software Engineer at a Consulting company in the Public and Government Sector. In my spare time I enjoy developing my skills through personal projects and keeping active by going to the gym.
 
 #### Technologies used
 | Technology | Skill |
@@ -9,11 +9,9 @@ I am a Computer Sicence Graduate currently training to be a Java Developer Consu
 | SQL | ⭐⭐⭐⭐ |
 | HTML | ⭐⭐⭐⭐⭐ |
 | CSS | ⭐⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐ |
+| JavaScript | ⭐⭐⭐⭐ |
 | jQuery | ⭐⭐⭐ |
-
-Check out my website!
-[Click Here](https://bradleywilliams.co.uk/)
+| python | ⭐⭐ |
 
 <!--
 **bsrwilliams/bsrwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
